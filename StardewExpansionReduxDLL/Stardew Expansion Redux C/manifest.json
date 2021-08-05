@@ -1,0 +1,9 @@
+{
+	"Name": "Stardew Expansion Redux DLL",
+	"Author": "Pillow",
+	"Version": "1.4.0",
+	"Description": "C# component of the updated version of Stardew Expansion. Thanks Lemurkat for the town area code.",
+	"UniqueID": "Pillow.StardewExpansion.DLL",
+	"UpdateKeys": [ "Nexus:8968" ],
+	"EntryDll": "StardewExpansionReduxDLL.dll",
+}

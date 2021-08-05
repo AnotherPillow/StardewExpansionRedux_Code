@@ -1,0 +1,18 @@
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\obj\Debug\Stardew Expansion Redux C.csproj.AssemblyReference.cache
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\obj\Debug\Stardew Expansion Redux C.csproj.CoreCompileInputs.cache
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\Stardew Expansion Redux C.dll
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\Stardew Expansion Redux C.pdb
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\DotNetZip.dll
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\MoonSharp.Interpreter.dll
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\NCalc.dll
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\Newtonsoft.Json.dll
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\PyTK.dll
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\TMXTile.dll
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\DotNetZip.pdb
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\DotNetZip.xml
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\MoonSharp.Interpreter.pdb
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\MoonSharp.Interpreter.xml
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\bin\Debug\Newtonsoft.Json.xml
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\obj\Debug\Stardew Expansion Redux C.csproj.CopyComplete
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\obj\Debug\Stardew Expansion Redux C.dll
+C:\Coding\VS Projects\source\repos\Stardew Expansion Redux C\Stardew Expansion Redux C\obj\Debug\Stardew Expansion Redux C.pdb
